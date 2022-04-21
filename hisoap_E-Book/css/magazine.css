@@ -7,6 +7,7 @@ body{
 .btn{
 	position: fixed;
 	bottom: 30px; right: 30px;
+	z-index: 99;
 }
 .magazine-viewport .container{
 	position:absolute;
