@@ -1,0 +1,12 @@
+#wrap{
+    width: 1024px;
+    height: auto;
+    margin: 0 auto;
+}
+#wrap .main .m{
+    position: absolute;
+    top: 23%;
+    left: 50%;
+    margin-left: 38px;
+}
+#wrap .main .m img{width: 300px;}
